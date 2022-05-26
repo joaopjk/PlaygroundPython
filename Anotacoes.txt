@@ -1,0 +1,7 @@
+Criar enviroment 
+py -3 -m venv venv
+
+Sempre rodar o activate.bat
+
+pip install fastapi[all]
+pip freeze
