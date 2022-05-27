@@ -5,3 +5,5 @@ Sempre rodar o activate.bat
 
 pip install fastapi[all]
 pip freeze
+uvicorn main:app
+ pip install gunicorn
